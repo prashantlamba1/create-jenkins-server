@@ -33,5 +33,5 @@ For running the setup run below commands:
 
 8. Now that we have setup the Jenkins server we can proceed ahead by first setting up aws creadentials in Jenkins. We'll use these to authenticate with AWS.
 
-9. Now moving ahead with our main task please follow **https://github.com/prashantlamba1/eks-python-app-deploy
+9. Now moving ahead with our main task please follow https://github.com/prashantlamba1/eks-python-app-deploy
 
