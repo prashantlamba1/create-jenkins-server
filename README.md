@@ -3,7 +3,7 @@ Setup Jenkins server for carrying out CI/CD tasks.
 
 The given script would create an EC2 instance on AWS cloud and set it up as a Jenkins server.
 
-**Note: This setup has been tested on centos 7 server and all the commands below were run as a root user.**
+**Note: All the commands below were run as a root user.**
 
 Before running the setup please have below pre-requisites configured: 
 1. Create an aws account. 
